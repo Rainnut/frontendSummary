@@ -4,6 +4,8 @@
 https://cnodejs.org/topic/55e31bd6898f6bdc7e5551ac
 https://cnodejs.org/topic/55dec742c61f30df2e65ebda
 
+# 前端模块化
+https://www.jianshu.com/p/da2ac9ad2960
 
 webpack
 
