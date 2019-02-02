@@ -80,5 +80,9 @@ for(let [key,value] of map){}
 for(let [key] of map){}
 for(let [,value] of map){}
 	
-
-	
+-----------prototype与__proto__ ------------
+https://www.cnblogs.com/wangfupeng1988/p/3977924.html
+1、每个函数function都有一个prototype，即原型。
+   每个对象都有一个__proto__，可成为隐式原型。
+2、每个obj都是被Object函数创建的，因此obj.__proto__=== Object.prototype
+   Object.prototype.__proto__ = null
